@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginFirebase16032024</string>
+    <string name="default_web_client_id">929288914243-hfnjsev9oi8i0t0oip34777ol6o05f16.apps.googleusercontent.com</string>
+    //facebook
+    <string name="facebook_app_id">1059498272862271</string>
+    <string name="fb_login_protocol_scheme">fb1059498272862271</string>
+    <string name="facebook_client_token">6bad019dc70505d99ad566234f7aac67</string>
+</resources>

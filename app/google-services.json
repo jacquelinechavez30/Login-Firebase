@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929288914243",
+    "project_id": "guia-8-login-firebase",
+    "storage_bucket": "guia-8-login-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929288914243:android:c9ada1a43777c34a691bf6",
+        "android_client_info": {
+          "package_name": "edu.udb.loginfirebase16032024"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929288914243-hfnjsev9oi8i0t0oip34777ol6o05f16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-wITpkjSYxkRWsJdeHHQyiG4YI3oxrPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929288914243-hfnjsev9oi8i0t0oip34777ol6o05f16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
